@@ -1,4 +1,4 @@
-# VLESS + WebSocket + UDP with Dashboard — Railway deploy
+# VLESS + WebSocket + UDP with Dashboard — Railway deploy 😭 
 
 Deployable VLESS proxy using [Xray-core](https://github.com/XTLS/Xray-core) with a built-in web dashboard, designed for Railway.
 
