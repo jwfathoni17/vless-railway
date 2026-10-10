@@ -6,7 +6,7 @@
 
 :{$PORT} {
 	handle {$WS_PATH}* {
-		reverse_proxy 127.0.0.1:8080
+		reverse_proxy 127.0.0.1:8082
 	}
 	handle {
 		reverse_proxy 127.0.0.1:8081
